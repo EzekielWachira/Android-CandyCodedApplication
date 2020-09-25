@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +40,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
@@ -54,7 +51,39 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.1.4" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+    <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -111,6 +140,12 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
+        <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -124,5 +159,31 @@
       <updated>1572482991570</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1601044513606">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1601044513606" />
+    <state x="526" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600989765909">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="526" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1600989765908" />
+    <state width="1323" height="488" key="GridCell.Tab.0.bottom" timestamp="1601046998383">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="488" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601046998383" />
+    <state width="1323" height="488" key="GridCell.Tab.0.center" timestamp="1601046998382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="488" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601046998382" />
+    <state width="1323" height="488" key="GridCell.Tab.0.left" timestamp="1601046998381">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="488" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601046998381" />
+    <state width="1323" height="488" key="GridCell.Tab.0.right" timestamp="1601046998383">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="488" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601046998383" />
   </component>
 </project>
