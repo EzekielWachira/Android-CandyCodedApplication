@@ -73,6 +73,16 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 
+<<<<<<< Updated upstream
+=======
+    @Override public boolean onOptionsItemSelected(MenuItem item) {
+       Intent infoIntent = new Intent(MainActivity.this, InfoActivity.class);
+       startActivity(infoIntent);
+
+        return super.onOptionsItemSelected(item);
+    }
+
+>>>>>>> Stashed changes
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
